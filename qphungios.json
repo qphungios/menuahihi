@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "identifier": "qphungios.com",
+  "name": "admin - qphungios",
+  "description": "Zalo 0348609562  Tele @qphungios",
+  "accentColor": "#008080",
+  "icon": "assets/icon.png",
+  "packages": [
+    {
+      "identifier": "aimbotsh",
+      "name": "FFM AIM NGỒI",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "QPHUNGIOS • H4CK IOS",
+      "description": " Zalo 0348609562  Tele @qphungios ",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T07:15:00Z",
+      "download": "packages/ffmngoi.3105",
+      "sha256": "d6a425c0d1d93f27f543a5127a2b14e7458a3af10ae01848616bb7dcaaf33aec",
+      "size": 23125,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": true,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "aimbot2nsns",
+      "name": "FFTH AIM NGỒI",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "QPHUNGIOS • H4CK IOS",
+      "description": "Zalo 0348609562  Tele @qphungios ",
+      "category": "qphungios",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffthngoi.3105",
+      "sha256": "9396f3fed07ff56d427369740c219215d75debe92d7f5d2e9daac27e6b78af50",
+      "size": 18512,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "aimbot2sb",
+      "name": "FFTH MENU NHẸ TÂM R8",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "QPHUNGIOS • H4CK IOS",
+      "description": "Zalo 0348609562  Tele @qphungios ",
+      "category": "qphungios",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffmr8esp.3105",
+      "sha256": "b8fd8d0f2b71a4990c5bed3afc27087386cf1554570403ab982a1dff14527cf3",
+      "size": 30202,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_1208.png",
+        "assets/icon.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "bnhaimbot2",
+      "name": "FFTH NHETAM R8",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "QPHUNGIOS • H4CK IOS",
+      "description": "Zalo 0348609562  Tele @qphungios ",
+      "category": "qphungios",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffthr8esp.3105",
+      "sha256": "f33f181ee6fbcdd32cc33ae4611fb90cba47048712d20498dbde20b8ee7cabfe",
+      "size": 25588,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    }
+  ]
+}
