@@ -112,8 +112,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/ffmr8.3105",
-      "sha256": "48fb2f9844cac1e218c0491a36d3436a5d68bedb1f444d2d5c53b4cdd662d1eb",
-      "size": 15937,
+      "sha256": "ab75b8cdeae68d1ed29f9cc5619c9265c9adc3de5f5c53dec528b1226c8a0c4f",
+      "size": 16724,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -158,8 +158,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/ffthr8.3105",
-      "sha256": "c15d9cb1f889455c4eee54fdd1c4b06141472ea2032640c22b99a8eef304628c",
-      "size": 15938,
+      "sha256": "91685eda1fe30903d62e3b467f1f187210fd18bf30bcf5638559f319304f3a57",
+      "size": 16724,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -204,8 +204,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/ffmr8s.3105",
-      "sha256": "3353e20730bead8f3a21ab8c501b322a3add65df12aa4bb58fdf5c1447d2e6db",
-      "size": 33576,
+      "sha256": "7a2744fe3f5da2a18b3f71612dfad6e16780120115c55a0bd6fc5250f6dd9f77",
+      "size": 22340,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -250,8 +250,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/ffthr8s.3105",
-      "sha256": "b089952d24cb6b8baaca2c02be32c02f843100f5599ab37fc64b17b006572885",
-      "size": 33576,
+      "sha256": "496e79a8067fd30df4d636047f0f1e510c8ca1cda36ec1e9dc36f8146221fa88",
+      "size": 22340,
       "supportedOS": [
         {
           "minimum": "17.0",
