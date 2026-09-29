@@ -8,7 +8,7 @@
   "packages": [
     {
       "identifier": "aimbots",
-      "name": "FFM BYPASS - MENU",
+      "name": "FFM ESP NO AIM",
       "author": "qphungios",
       "version": "1.0.0",
       "summary": "make by @qphungios",
@@ -19,9 +19,9 @@
         "qphungios"
       ],
       "publishedAt": "2026-09-15T07:15:00Z",
-      "download": "packages/ffmbypass.3105",
-      "sha256": "f892ad9c5fe5bf4254e8b7855d14ad3c0d8ada4024f9b985fdaaf0b45df40170",
-      "size": 1888945,
+      "download": "packages/ffmesp.3105",
+      "sha256": "84521b60eac7621739f15ab0d54e0eb5012b6eefb9ee9cf8b9e4d1099f3976e3",
+      "size": 11115,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -54,7 +54,7 @@
     },
     {
       "identifier": "aot2nsns",
-      "name": "FFTH BYPASS - MENU",
+      "name": "FFTH ESP NO AIM",
       "author": "qphungios",
       "version": "1.0.0",
       "summary": "make by @qphungios",
@@ -65,9 +65,101 @@
         "qphungios"
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/ffthbypass.3105",
-      "sha256": "25434ea6681f557da3d6624b5ed16e85b6369a149a08d6752db9d0fe88d3c3a4",
-      "size": 2558603,
+      "download": "packages/ffthesp.3105",
+      "sha256": "028ab0a059781a8d386ccbe56a8c53f3da666d575d75b3e835b00572cd299db2",
+      "size": 11117,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "esp",
+      "name": "FFM AIMBOT HIED",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "make by @qphungios",
+      "description": " Zalo 0348609562  Tele @qphungios ",
+      "category": "Game",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T07:15:00Z",
+      "download": "packages/ffmaimbothied.3105",
+      "sha256": "bf86f95408a6d49bb17662d827a7d889e5287d2634bb59df5b70c798c84ea1b7",
+      "size": 14621,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": true,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "aespsns",
+      "name": "FFTH AIMBOT HIED",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "make by @qphungios",
+      "description": "Zalo 0348609562  Tele @qphungios ",
+      "category": "qphungios",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffthaimbothied.3105",
+      "sha256": "90516d0d5155508fc5beffbeb3c4cf3203e0fd6518228601a1fe60042f457d2c",
+      "size": 14621,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -103,7 +195,7 @@
       "name": "FFM CANCHECK R8",
       "author": "qphungios",
       "version": "1.0.0",
-      "summary": "QPHUNGIOS • H4CK IOS",
+      "summary": "make by @qphungios",
       "description": "Zalo 0348609562  Tele @qphungios ",
       "category": "qphungios",
       "tags": [
@@ -149,7 +241,7 @@
       "name": "FFTH CANCHECK R8",
       "author": "qphungios",
       "version": "1.0.0",
-      "summary": "QPHUNGIOS • H4CK IOS",
+      "summary": "make by @qphungios",
       "description": "Zalo 0348609562  Tele @qphungios ",
       "category": "qphungios",
       "tags": [
@@ -195,7 +287,7 @@
       "name": "FFM R8 + ESP NEW",
       "author": "qphungios",
       "version": "1.0.0",
-      "summary": "QPHUNGIOS • H4CK IOS",
+      "summary": "make by @qphungios",
       "description": "Zalo 0348609562  Tele @qphungios ",
       "category": "qphungios",
       "tags": [
@@ -241,7 +333,7 @@
       "name": "FFTH R8 + ESP NEW",
       "author": "qphungios",
       "version": "1.0.0",
-      "summary": "QPHUNGIOS • H4CK IOS",
+      "summary": "make by @qphungios",
       "description": "Zalo 0348609562  Tele @qphungios ",
       "category": "qphungios",
       "tags": [
