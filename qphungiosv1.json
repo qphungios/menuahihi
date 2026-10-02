@@ -373,6 +373,98 @@
         "assets/IMG_1208.png"
       ],
       "password": "qphungios"
+    },
+    {
+      "identifier": "nan",
+      "name": "FFM SILENT V1",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "make by @qphungios",
+      "description": "Zalo 0348609562  Tele @qphungios ",
+      "category": "qphungios",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffmsilent.3105",
+      "sha256": "348cc0d64a8a138b379c50bb4eed881b10ee1b5a08d90cf3ac5993d1a49a6748",
+      "size": 34254,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "bnsilent",
+      "name": "FFTH SILENT V1",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "make by @qphungios",
+      "description": "Zalo 0348609562  Tele @qphungios ",
+      "category": "qphungios",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffthsilentv1.3105",
+      "sha256": "4e54d92de90e6a5d7031008358951a79f615d9a39d5d5ccc17faaadb4ba9f120",
+      "size": 34254,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
     }
   ]
 }
