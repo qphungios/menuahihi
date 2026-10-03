@@ -48,6 +48,7 @@
       "screenshots": [
         "assets/IMG_0361.png",
         "assets/IMG_0804.png",
+        "assets/IMG_0234.png",
         "assets/IMG_1208.png"
       ],
       "password": "qphungios"
@@ -94,6 +95,7 @@
       "screenshots": [
         "assets/IMG_0361.png",
         "assets/IMG_0804.png",
+        "assets/IMG_0234.png",
         "assets/IMG_1208.png"
       ],
       "password": "qphungios"
@@ -140,6 +142,7 @@
       "screenshots": [
         "assets/IMG_0361.png",
         "assets/IMG_0804.png",
+        "assets/IMG_0234.png",
         "assets/IMG_1208.png"
       ],
       "password": "qphungios"
@@ -186,6 +189,7 @@
       "screenshots": [
         "assets/IMG_0361.png",
         "assets/IMG_0804.png",
+        "assets/IMG_0234.png",
         "assets/IMG_1208.png"
       ],
       "password": "qphungios"
@@ -232,6 +236,7 @@
       "screenshots": [
         "assets/IMG_0361.png",
         "assets/IMG_0804.png",
+        "assets/IMG_0234.png",
         "assets/IMG_1208.png"
       ],
       "password": "qphungios"
@@ -278,6 +283,7 @@
       "screenshots": [
         "assets/IMG_0361.png",
         "assets/IMG_0804.png",
+        "assets/IMG_0234.png",
         "assets/IMG_1208.png"
       ],
       "password": "qphungios"
@@ -324,6 +330,7 @@
       "screenshots": [
         "assets/IMG_0361.png",
         "assets/IMG_0804.png",
+        "assets/IMG_0234.png",
         "assets/IMG_1208.png"
       ],
       "password": "qphungios"
@@ -370,12 +377,13 @@
       "screenshots": [
         "assets/IMG_0361.png",
         "assets/IMG_0804.png",
+        "assets/IMG_0234.png",
         "assets/IMG_1208.png"
       ],
       "password": "qphungios"
     },
     {
-      "identifier": "nan",
+      "identifier": "vanan",
       "name": "FFM SILENT V1",
       "author": "qphungios",
       "version": "1.0.0",
@@ -387,9 +395,9 @@
         "qphungios"
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/ffmsilent.3105",
-      "sha256": "8fa3e8b98754b7d8505934d7ac90eef287725cdfdd81b05990225eb6f1214c59",
-      "size": 34254,
+      "download": "packages/ffmsilentv1.3105",
+      "sha256": "da34ab86aa30d2447a0d05918b0748b686dd21e251a4cfdeb130264ad4dfc837",
+      "size": 34315,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -416,12 +424,13 @@
       "screenshots": [
         "assets/IMG_0361.png",
         "assets/IMG_0804.png",
+        "assets/IMG_0234.png",
         "assets/IMG_1208.png"
       ],
       "password": "qphungios"
     },
     {
-      "identifier": "bnsilent",
+      "identifier": "bnsilentb",
       "name": "FFTH SILENT V1",
       "author": "qphungios",
       "version": "1.0.0",
@@ -462,6 +471,7 @@
       "screenshots": [
         "assets/IMG_0361.png",
         "assets/IMG_0804.png",
+        "assets/IMG_0234.png",
         "assets/IMG_1208.png"
       ],
       "password": "qphungios"
