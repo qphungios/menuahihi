@@ -290,10 +290,10 @@
     },
     {
       "identifier": "aimtra2sb",
-      "name": "FFM R8 + ESP NEW",
+      "name": "FFM MENU DELTA",
       "author": "qphungios",
       "version": "1.0.0",
-      "summary": "make by @qphungios",
+      "summary": "crack by @qphungios",
       "description": "Zalo 0348609562  Tele @qphungios ",
       "category": "qphungios",
       "tags": [
@@ -301,9 +301,9 @@
         "qphungios"
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/ffmr8s.3105",
-      "sha256": "7a2744fe3f5da2a18b3f71612dfad6e16780120115c55a0bd6fc5250f6dd9f77",
-      "size": 22340,
+      "download": "packages/ffmdelta.3105",
+      "sha256": "da5bacbae595eca255a5d3e3281774d712b2c7c62c886b31a4f017f44c6051d3",
+      "size": 41172,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -337,10 +337,10 @@
     },
     {
       "identifier": "bnhaimrag2",
-      "name": "FFTH R8 + ESP NEW",
+      "name": "FFTH MENU DELTA",
       "author": "qphungios",
       "version": "1.0.0",
-      "summary": "make by @qphungios",
+      "summary": "crack by @qphungios",
       "description": "Zalo 0348609562  Tele @qphungios ",
       "category": "qphungios",
       "tags": [
@@ -348,9 +348,9 @@
         "qphungios"
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/ffthr8s.3105",
-      "sha256": "496e79a8067fd30df4d636047f0f1e510c8ca1cda36ec1e9dc36f8146221fa88",
-      "size": 22340,
+      "download": "packages/ffthdelta.3105",
+      "sha256": "427e28b332f45fc6669d9241d03abc283c14beedd0824114d377de3e67164d20",
+      "size": 41114,
       "supportedOS": [
         {
           "minimum": "17.0",
