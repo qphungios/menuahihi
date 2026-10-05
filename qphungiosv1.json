@@ -302,8 +302,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/ffmdelta.3105",
-      "sha256": "da5bacbae595eca255a5d3e3281774d712b2c7c62c886b31a4f017f44c6051d3",
-      "size": 41172,
+      "sha256": "    b36cb53dd7c63ac6a7a3bf0034f463c2d2934ada76e2078aa4fb310d9811685e",
+      "size": 41113,
       "supportedOS": [
         {
           "minimum": "17.0",
