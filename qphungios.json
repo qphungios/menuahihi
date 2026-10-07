@@ -301,7 +301,7 @@
         "qphungios"
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/ffmdeltaa.3105",
+      "download": "packages/ffmdelta.3105",
       "sha256": "b36cb53dd7c63ac6a7a3bf0034f463c2d2934ada76e2078aa4fb310d9811685e",
       "size": 41113,
       "supportedOS": [
@@ -348,7 +348,7 @@
         "qphungios"
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/ffthdelta.3105",
+      "download": "packages/ffthdeltaa.3105",
       "sha256": "427e28b332f45fc6669d9241d03abc283c14beedd0824114d377de3e67164d20",
       "size": 41114,
       "supportedOS": [
