@@ -302,8 +302,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/ffmdelta.3105",
-      "sha256": "b36cb53dd7c63ac6a7a3bf0034f463c2d2934ada76e2078aa4fb310d9811685e",
-      "size": 41113,
+      "sha256": "1fd71dc61f5caf52ba00ba301fb0b11e1f02b2888377d77cb3d47a509df3f56c",
+      "size": 41172,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -349,8 +349,8 @@
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/ffthdeltaa.3105",
-      "sha256": "427e28b332f45fc6669d9241d03abc283c14beedd0824114d377de3e67164d20",
-      "size": 41114,
+      "sha256": "4ba8b4d8ff4d5c2bfafd96ca8225e90f34b5d40c0bcc49a42cfea7d7a29c696d",
+      "size": 41113,
       "supportedOS": [
         {
           "minimum": "17.0",
