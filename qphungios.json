@@ -8,7 +8,7 @@
   "packages": [
     {
       "identifier": "aimbots",
-      "name": "FFM ESP NO AIM",
+      "name": "FFM ĐỊNH VỊ ESP",
       "author": "qphungios",
       "version": "1.0.0",
       "summary": "make by @qphungios",
@@ -55,7 +55,7 @@
     },
     {
       "identifier": "aot2nsns",
-      "name": "FFTH ESP NO AIM",
+      "name": "FFTH ĐỊNH VỊ ESP",
       "author": "qphungios",
       "version": "1.0.0",
       "summary": "make by @qphungios",
@@ -301,7 +301,7 @@
         "qphungios"
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/ffmdelta.3105",
+      "download": "packages/ffmdeltav2.3105",
       "sha256": "1fd71dc61f5caf52ba00ba301fb0b11e1f02b2888377d77cb3d47a509df3f56c",
       "size": 41172,
       "supportedOS": [
@@ -348,7 +348,7 @@
         "qphungios"
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/ffthdeltaa.3105",
+      "download": "packages/ffthdeltav2.3105",
       "sha256": "4ba8b4d8ff4d5c2bfafd96ca8225e90f34b5d40c0bcc49a42cfea7d7a29c696d",
       "size": 41113,
       "supportedOS": [
