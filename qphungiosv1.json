@@ -8,7 +8,7 @@
   "packages": [
     {
       "identifier": "aimbots",
-      "name": "FFM ESP NO AIM",
+      "name": "FFM ĐỊNH VỊ ESP",
       "author": "qphungios",
       "version": "1.0.0",
       "summary": "make by @qphungios",
@@ -55,7 +55,7 @@
     },
     {
       "identifier": "aot2nsns",
-      "name": "FFTH ESP NO AIM",
+      "name": "FFTH ĐỊNH VỊ ESP",
       "author": "qphungios",
       "version": "1.0.0",
       "summary": "make by @qphungios",
@@ -63,7 +63,7 @@
       "category": "qphungios",
       "tags": [
         "Game",
-        "qphungios"
+        "cache"
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/ffthesp.3105",
@@ -110,7 +110,7 @@
       "category": "Game",
       "tags": [
         "Game",
-        "qphungios"
+        "avatar"
       ],
       "publishedAt": "2026-09-15T07:15:00Z",
       "download": "packages/ffmaimbothide.3105",
@@ -290,7 +290,7 @@
     },
     {
       "identifier": "aimtra2sb",
-      "name": "FFM MENU DELTA",
+      "name": "FFM DELTA CRACK V1",
       "author": "qphungios",
       "version": "1.0.0",
       "summary": "crack by @qphungios",
@@ -301,9 +301,9 @@
         "qphungios"
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/ffmdeltaa.3105",
-      "sha256": "    b36cb53dd7c63ac6a7a3bf0034f463c2d2934ada76e2078aa4fb310d9811685e",
-      "size": 41113,
+      "download": "packages/ffmdeltav2.3105",
+      "sha256": "1fd71dc61f5caf52ba00ba301fb0b11e1f02b2888377d77cb3d47a509df3f56c",
+      "size": 41172,
       "supportedOS": [
         {
           "minimum": "17.0",
@@ -337,7 +337,7 @@
     },
     {
       "identifier": "bnhaimrag2",
-      "name": "FFTH MENU DELTA",
+      "name": "FFTH DELTA CRACK V1",
       "author": "qphungios",
       "version": "1.0.0",
       "summary": "crack by @qphungios",
@@ -348,9 +348,103 @@
         "qphungios"
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
-      "download": "packages/ffthdelta.3105",
-      "sha256": "427e28b332f45fc6669d9241d03abc283c14beedd0824114d377de3e67164d20",
-      "size": 41114,
+      "download": "packages/ffthdeltav2.3105",
+      "sha256": "4ba8b4d8ff4d5c2bfafd96ca8225e90f34b5d40c0bcc49a42cfea7d7a29c696d",
+      "size": 41113,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_0234.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "adeltav2",
+      "name": "FFM DELTA CRACK V2",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "crack by @qphungios",
+      "description": "Zalo 0348609562  Tele @qphungios ",
+      "category": "qphungios",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffmdeltav3.3105",
+      "sha256": "4451c4d8d6d8648f0a6601ea0c6a8861aba7ec3f690995fe47cd6e2c88095d61",
+      "size": 510508,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "18.7.1"
+        },
+        {
+          "minimum": "26.0",
+          "maximum": "26.6.1"
+        },
+        {
+          "minimum": "27.0",
+          "maximum": "27.0",
+          "builds": [
+            "24A5355q",
+            "24A5370h",
+            "24A5380h",
+            "24A5390f"
+          ]
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "assets/icon.png",
+      "screenshots": [
+        "assets/IMG_0361.png",
+        "assets/IMG_0804.png",
+        "assets/IMG_0234.png",
+        "assets/IMG_1208.png"
+      ],
+      "password": "qphungios"
+    },
+    {
+      "identifier": "bnhdelcrack",
+      "name": "FFTH DELTA CRACK V2",
+      "author": "qphungios",
+      "version": "1.0.0",
+      "summary": "crack by @qphungios",
+      "description": "Zalo 0348609562  Tele @qphungios ",
+      "category": "qphungios",
+      "tags": [
+        "Game",
+        "qphungios"
+      ],
+      "publishedAt": "2026-09-15T08:00:00Z",
+      "download": "packages/ffthdeltav3.3105",
+      "sha256": "377eb9530b3c5577c74dc691bb91c50e21452b6c3445ebd19c49a6fc45d4274b",
+      "size": 510445,
       "supportedOS": [
         {
           "minimum": "17.0",
