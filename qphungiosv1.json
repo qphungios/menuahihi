@@ -33,7 +33,7 @@
         },
         {
           "minimum": "27.0",
-          "maximum": "27.0",
+          "maximum": "27.0.1",
           "builds": [
             "24A5355q",
             "24A5370h",
@@ -63,7 +63,7 @@
       "category": "qphungios",
       "tags": [
         "Game",
-        "cache"
+        "qphungios"
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/ffthesp.3105",
@@ -110,7 +110,7 @@
       "category": "Game",
       "tags": [
         "Game",
-        "avatar"
+        "qphungios"
       ],
       "publishedAt": "2026-09-15T07:15:00Z",
       "download": "packages/ffmaimbothide.3105",
