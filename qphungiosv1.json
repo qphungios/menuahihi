@@ -25,7 +25,7 @@
   "supportedOS": [
     {
       "minimum": "16.0",
-      "maximum": "27.2"
+      "maximum": "30.2"
     }
   ],
   "featured": true,
