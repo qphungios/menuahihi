@@ -6,41 +6,39 @@
   "accentColor": "#008080",
   "icon": "assets/icon.png",
   "packages": [
+{
+  "identifier": "aimbots",
+  "name": "FFM ĐỊNH VỊ ESP",
+  "author": "qphungios",
+  "version": "1.0.0",
+  "summary": "make by @qphungios",
+  "description": "Zalo 0348609562 Tele @qphungios",
+  "category": "Game",
+  "tags": [
+    "Game",
+    "qphungios"
+  ],
+  "publishedAt": "2026-09-15T07:15:00Z",
+  "download": "packages/ffmesp.3105",
+  "sha256": "84521b60eac7621739f15ab0d54e0eb5012b6eefb9ee9cf8b9e4d1099f3976e3",
+  "size": 11115,
+  "supportedOS": [
     {
-      "identifier": "aimbots",
-      "name": "FFM ĐỊNH VỊ ESP",
-      "author": "qphungios",
-      "version": "1.0.0",
-      "summary": "make by @qphungios",
-      "description": " Zalo 0348609562  Tele @qphungios ",
-      "category": "Game",
-      "tags": [
-        "Game",
-        "qphungios"
-      ],
-      "publishedAt": "2026-09-15T07:15:00Z",
-      "download": "packages/ffmesp.3105",
-      "sha256": "84521b60eac7621739f15ab0d54e0eb5012b6eefb9ee9cf8b9e4d1099f3976e3",
-      "size": 11115,
-      "supportedOS": [
-        {
-          "minimum": "16.0",
-          "maximum": "27.7.1",
-          }
-          ]
-        }
-      ],
-      "featured": true,
-      "isPrivate": false,
-      "icon": "assets/icon.png",
-      "screenshots": [
-        "assets/IMG_0361.png",
-        "assets/IMG_0804.png",
-        "assets/IMG_0234.png",
-        "assets/IMG_1208.png"
-      ],
-      "password": "qphungios"
-    },
+      "minimum": "16.0",
+      "maximum": "27.2"
+    }
+  ],
+  "featured": true,
+  "isPrivate": false,
+  "icon": "assets/icon.png",
+  "screenshots": [
+    "assets/IMG_0361.png",
+    "assets/IMG_0804.png",
+    "assets/IMG_0234.png",
+    "assets/IMG_1208.png"
+  ],
+  "password": "qphungios"
+},
     {
       "identifier": "aot2nsns",
       "name": "FFTH ĐỊNH VỊ ESP",
