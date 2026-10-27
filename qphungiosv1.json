@@ -56,24 +56,10 @@
       "sha256": "028ab0a059781a8d386ccbe56a8c53f3da666d575d75b3e835b00572cd299db2",
       "size": 11117,
       "supportedOS": [
-        {
-          "minimum": "17.0",
-          "maximum": "18.7.1"
-        },
-        {
-          "minimum": "26.0",
-          "maximum": "26.6.1"
-        },
-        {
-          "minimum": "27.0",
-          "maximum": "27.0",
-          "builds": [
-            "24A5355q",
-            "24A5370h",
-            "24A5380h",
-            "24A5390f"
-          ]
-        }
+    {
+      "minimum": "16.0",
+      "maximum": "27.2"
+    }
       ],
       "featured": false,
       "isPrivate": false,
